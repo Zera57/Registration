@@ -1,4 +1,4 @@
-package com.Zera57.Registration;
+package com.Zera57.Application;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
