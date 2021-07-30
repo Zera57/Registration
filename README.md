@@ -12,7 +12,7 @@ Registration project base 📝
 * Username;
 * Password;
 
-Так же потребуется установить [SMTP-сервер](https://github.com/maildev/maildev).
+Так же потребуется установить [SMTP-сервер](https://github.com/maildev/maildev). И прописать настройки для него в [конфигурационном файле](https://github.com/Zera57/ServerJPA/blob/master/src/main/resources/application.properties).
 
 ## Использование
 Регистрация:
