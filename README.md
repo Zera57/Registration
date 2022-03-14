@@ -7,12 +7,12 @@ Registration project base 📝
 - [x] Подтверждение почты с истечением срока
 
 ## Установка
-Для запуска необходима база данных PostgreSQL. В [конфигурационном файле](https://github.com/Zera57/ServerJPA/blob/master/src/main/resources/application.properties) для подключения к БД прописать:
+Для запуска необходима база данных PostgreSQL. В [конфигурационном файле](https://github.com/Zera57/Registration/blob/master/src/main/resources/application.yml) для подключения к БД прописать:
 * Url;
 * Username;
 * Password;
 
-Так же потребуется установить [SMTP-сервер](https://github.com/maildev/maildev). И прописать настройки для него в [конфигурационном файле](https://github.com/Zera57/ServerJPA/blob/master/src/main/resources/application.properties).
+Так же потребуется установить [SMTP-сервер](https://github.com/maildev/maildev). И прописать настройки для него в [конфигурационном файле](https://github.com/Zera57/Registration/blob/master/src/main/resources/application.yml).
 
 ## Использование
 Регистрация:
