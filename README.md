@@ -21,10 +21,10 @@ Registration project base 📝
 ```
 Content-Type: application/json
 {
-	"name": "Pringles Extra Cheese",
-	"description": "Snack",
-	"cost": 99,
-	"count": 11
+  "firstName": "Svyatoslav",
+  "secondName": "Avtonomov",
+  "email": "svyat@gmail.com",
+  "password": "password123"
 };
 ```
 
